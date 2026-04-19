@@ -408,6 +408,10 @@ PalletTown_EventScript_RivalsHouseSign::
 PalletTown_EventScript_TownSign::
 	msgbox PalletTown_Text_TownSign, MSGBOX_SIGN
 	end
+	
+Nick_Test_Sign::
+	msgbox Nick_Text_Sign, MSGBOX_SIGN
+	end
 
 PalletTown_EventScript_TrainerTips::
 	lockall

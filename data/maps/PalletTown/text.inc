@@ -32,6 +32,9 @@ PalletTown_Text_RivalsHouse::
 PalletTown_Text_TownSign::
     .string "PALLET TOWN\n"
     .string "Shades of your journey await!$"
+    
+Nick_Text_Sign::
+    .string "NICK WAS HERE$"
 
 PalletTown_Text_OakLetMeSeePokedex::
     .string "OAK: Ah, {PLAYER}!\n"
